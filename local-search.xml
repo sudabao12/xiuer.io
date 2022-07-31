@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>搭建个人博客:github+hexo+fluid</title>
+    <link href="/2022/08/01/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-github-hexo-fluid/"/>
+    <url>/2022/08/01/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-github-hexo-fluid/</url>
+    
+    <content type="html"><![CDATA[<p>利用Github的gitpage和hexo进行部署个人的博客，主题是fluid。</p><span id="more"></span><h1 id="搭建个人博客：github-hexo-fluid"><a href="#搭建个人博客：github-hexo-fluid" class="headerlink" title="搭建个人博客：github+hexo+fluid"></a>搭建个人博客：github+hexo+fluid</h1><h3 id="原文链接"><a href="#原文链接" class="headerlink" title="原文链接"></a><a href="https://blog.csdn.net/yaorongke/article/details/119089190">原文链接</a></h3><h2 id="一-准备工作"><a href="#一-准备工作" class="headerlink" title="一.准备工作"></a>一.准备工作</h2><blockquote><h3 id="1-github账号"><a href="#1-github账号" class="headerlink" title="1. github账号"></a>1. github账号</h3><p> 需要注册一个github账号，如果没有的话可以到<a href="https://github.com/">github官网</a>申请一个。</p></blockquote><p>注册很简单</p><blockquote><h3 id="2-安装git"><a href="#2-安装git" class="headerlink" title="2. 安装git"></a>2. 安装git</h3><h3 id="3-安装node-js"><a href="#3-安装node-js" class="headerlink" title="3. 安装node.js"></a>3. 安装node.js</h3></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>实践项目</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+      <tag>github</tag>
+      
+      <tag>博客</tag>
+      
+      <tag>fluid主题</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>搭建搜索引擎</title>
     <link href="/2022/07/31/%E6%90%AD%E5%BB%BA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/"/>
     <url>/2022/07/31/%E6%90%AD%E5%BB%BA%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/</url>
